@@ -1,8 +1,8 @@
-# Superstore-sale-analysis
+# Sales Performance Optimization: Analyzing Regional and Category-Level Profitability in Superstore Data
 
 This data visualisation project examines the Superstore dataset to identify performance gaps and profitability trends across U.S. regions, product categories, and customer behaviours. Using Tableau, we analyse how factors such as discount rates, shipping modes, and product subcategories impact sales and profit margins. The goal is to provide actionable insights that help optimise pricing strategies, inventory focus, and operational efficiency.
 
-🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/shared/H7DYGP557?:display_count=n&:origin=viz_share_link)
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/SalesPerformanceOptimizationAnalyzingRegionalandCategory-LevelProfitabilityinSuperstoreData/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
