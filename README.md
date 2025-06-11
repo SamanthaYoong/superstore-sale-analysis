@@ -1,8 +1,8 @@
 # Superstore-sale-analysis
 
-This project analyzes Superstore's sales and profitability using Tableau to uncover actionable business insights from the widely used Superstore sample dataset.
+This data visualisation project examines the Superstore dataset to identify performance gaps and profitability trends across U.S. regions, product categories, and customer behaviours. Using Tableau, we analyse how factors such as discount rates, shipping modes, and product subcategories impact sales and profit margins. The goal is to provide actionable insights that help optimise pricing strategies, inventory focus, and operational efficiency.
 
-🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/views/YOUR-DASHBOARD-LINK)
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/shared/H7DYGP557?:display_count=n&:origin=viz_share_link)
 
 ---
 
