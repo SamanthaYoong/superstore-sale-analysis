@@ -28,7 +28,7 @@ This data visualisation project examines the Superstore dataset to identify perf
 
 ### 3. Discount Impact
 
-![Discount vs Profit](screenshots/discount_vs_profit.png)
+![Discount vs Profit](Discount vs Profit Analysis.png)
 
 - Discounts above **20%** are strongly correlated with profit losses.
 - Aggressive discounting appears to drive sales but hurt the bottom line.
